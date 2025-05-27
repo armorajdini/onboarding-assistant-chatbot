@@ -78,6 +78,8 @@ Er wurde mit **Voiceflow** entwickelt und dient als digitaler Assistent für hä
 - Folgefragen aus dem Menü ausprobieren
 - Fun Fact mehrfach testen für Randomisierung
 
+- 🔗 Test it live: [Voiceflow Preview](https://creator.voiceflow.com/project/6819bf8ca462610c22041dcd/canvas/64dbb6696a8fab0013dba194))
+
 ---
 
 ## 🔗 Projektartefakte
